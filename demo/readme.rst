@@ -1,3 +1,13 @@
+Steps to run project of "CodeIgniter Framework Login and Signup with validation"
+
+1.Copy demo file here C:\xampp\htdocs
+2.Open your browser and open localhost/phpmyadmin and import employee.sql file in database
+3.Than you can run it in your browser
+4.For run open localhost/demo
+
+
+
+
 ###################
 What is CodeIgniter
 ###################
